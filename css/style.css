@@ -919,7 +919,8 @@ a:focus {
     width: 100%;
     margin: 45px 0;
     padding: 90px 0;
-    background: #EF233C;
+    background: linear-gradient(rgba(0, 17, 255, 0.95), rgba(0, 38, 255, 0.95)), url(../img/hero-bg.jpg)
+
 }
 
 .banner .container {
@@ -1306,18 +1307,20 @@ a:focus {
     position: relative;
     width: 100%;
     margin: 45px 0;
-    background: #EF233C;
+    background: linear-gradient(rgba(255, 0, 0, 0.95), rgba(0, 38, 255, 0.95)), url(../img/hero-bg.jpg)
+
+    ;
 }
 
 .contact .container-fluid {
-    background: url(../img/contact.jpg) left center no-repeat;
+    background: url(../img/618TmPbH1vS._SL1000_-removebg-preview.png) left center no-repeat;
     background-size: contain;
 }
 
 .contact .contact-form {
     position: relative;
     padding: 90px 0 90px 45px;
-    background: #EF233C;
+    
 }
 
 .contact .contact-form input {
@@ -1465,7 +1468,7 @@ a:focus {
 .footer {
     position: relative;
     margin-top: 45px;
-    background: #EF233C;
+    background: linear-gradient(rgba(239, 35, 60, .95), rgba(239, 35, 60, .95)), url(../img/hero-bg.jpg)
 }
 
 .footer .container-fluid {
