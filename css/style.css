@@ -280,7 +280,7 @@ a:focus {
 
 .hero .hero-text p {
     color: #ffffff;
-    font-size: 25px;
+    font-size: 40px;
     font-weight: 600;
     margin-bottom: 15px;
 }
@@ -956,6 +956,8 @@ a:focus {
 }
 
 .banner .banner-text .btn {
+    margin-left: 15px;
+    margin-right: 12px;
     margin-top: 15px;
     color: #EF233C;
     background: #ffffff;
